@@ -1,3 +1,3 @@
-# pedestrian_intension_detection
+# pedestrian_intention_detection
 Hello this project is under process.....
 

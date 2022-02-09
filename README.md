@@ -1,6 +1,6 @@
-# pedestrian_intention_detection
+# Pedestrian_intention_detection(Movement Tracking)
 we have completed this project with the team of
-|sr|Name|USN|
+|S.No|Name|USN|
 |--|----|---|
 |1|Subrahmanya Bhat|01fe19bec161|
 |2|R jayanth |01fe19bec155|
